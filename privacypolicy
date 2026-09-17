@@ -1,0 +1,678 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="description"
+        content="Privacy Policy for Cooku.com grocery shopping and delivery application.">
+
+  <title>Privacy Policy - Cooku.com</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.7;
+      background: #f5f7f5;
+      color: #222;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 30px auto;
+      background: #ffffff;
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+    }
+
+    .header {
+      text-align: center;
+      margin-bottom: 35px;
+    }
+
+    .header h1 {
+      margin-bottom: 8px;
+      color: #16843b;
+      font-size: 32px;
+    }
+
+    .header p {
+      margin: 5px 0;
+      color: #666;
+    }
+
+    h2 {
+      color: #16843b;
+      margin-top: 32px;
+      margin-bottom: 10px;
+      font-size: 22px;
+    }
+
+    h3 {
+      color: #333;
+      margin-top: 20px;
+      margin-bottom: 8px;
+    }
+
+    p {
+      margin: 10px 0;
+    }
+
+    ul {
+      padding-left: 25px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .notice {
+      background: #eef8f0;
+      border-left: 4px solid #16843b;
+      padding: 15px 18px;
+      margin: 20px 0;
+      border-radius: 5px;
+    }
+
+    .contact {
+      background: #f1f4f2;
+      padding: 20px;
+      border-radius: 8px;
+      margin-top: 20px;
+    }
+
+    a {
+      color: #16843b;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid #ddd;
+      color: #777;
+      font-size: 14px;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        margin: 0;
+        padding: 22px;
+        border-radius: 0;
+      }
+
+      .header h1 {
+        font-size: 27px;
+      }
+
+      h2 {
+        font-size: 20px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <!-- HEADER -->
+    <div class="header">
+      <h1>Privacy Policy</h1>
+      <p><strong>Cooku.com</strong></p>
+      <p>Last updated: September 17, 2026</p>
+    </div>
+
+    <div class="notice">
+      <strong>Important:</strong>
+      This Privacy Policy explains how Cooku.com collects, uses,
+      stores, and protects information when you use our mobile
+      application and related services.
+    </div>
+
+
+    <!-- 1 -->
+    <h2>1. Introduction</h2>
+
+    <p>
+      Welcome to Cooku.com. Cooku.com is a grocery shopping and
+      delivery application that allows users to browse grocery
+      products, manage their shopping cart, save products to a
+      wishlist, place orders, provide delivery information, and
+      receive order-related notifications.
+    </p>
+
+    <p>
+      This Privacy Policy explains how Cooku.com collects, uses,
+      stores, and protects information associated with your use of
+      the Cooku.com application.
+    </p>
+
+    <p>
+      By using the Cooku.com application, you acknowledge that you
+      have read and understood this Privacy Policy.
+    </p>
+
+
+    <!-- 2 -->
+    <h2>2. Information We Collect</h2>
+
+    <p>
+      Depending on how you use Cooku.com, we may collect the
+      following categories of information.
+    </p>
+
+
+    <h3>2.1 Account Information</h3>
+
+    <p>
+      When you create an account or sign in, we may collect:
+    </p>
+
+    <ul>
+      <li>Name</li>
+      <li>Mobile phone number</li>
+      <li>Email address</li>
+      <li>Authentication information</li>
+    </ul>
+
+    <p>
+      If you use Google Sign-In, authentication may be provided
+      through Google. Information made available through the
+      authentication process may be associated with your Cooku.com
+      account.
+    </p>
+
+
+    <h3>2.2 Location Information</h3>
+
+    <p>
+      Cooku.com may request access to your device's location to
+      help determine your delivery location, identify an appropriate
+      Cooku.com store, calculate delivery distance, and determine
+      whether delivery is available in your area.
+    </p>
+
+    <p>
+      Location access is requested through the permissions provided
+      by your device. You can manage or disable location permissions
+      through your device settings.
+    </p>
+
+    <p>
+      If location permission is not provided, certain delivery
+      location or store-related features may not work correctly.
+    </p>
+
+
+    <h3>2.3 Delivery Information</h3>
+
+    <p>
+      To process and deliver your orders, we may collect information
+      that you provide for delivery, such as:
+    </p>
+
+    <ul>
+      <li>Delivery address</li>
+      <li>Area or locality</li>
+      <li>Town or city</li>
+      <li>Delivery instructions provided by you</li>
+      <li>Contact information required for delivery</li>
+    </ul>
+
+
+    <h3>2.4 Order Information</h3>
+
+    <p>
+      When you place an order, we may collect and store information
+      related to the order, including:
+    </p>
+
+    <ul>
+      <li>Products ordered</li>
+      <li>Product quantities</li>
+      <li>Order amount</li>
+      <li>Delivery information</li>
+      <li>Order date and time</li>
+      <li>Order status</li>
+      <li>Payment method</li>
+    </ul>
+
+
+    <h3>2.5 Cart and Wishlist Information</h3>
+
+    <p>
+      Cooku.com may store information about products that you add
+      to your shopping cart or wishlist so that these features can
+      function correctly.
+    </p>
+
+
+    <h3>2.6 Device and Technical Information</h3>
+
+    <p>
+      The application and the services used by the application may
+      automatically process certain technical information necessary
+      for operation, security, diagnostics, and reliability.
+    </p>
+
+    <p>
+      This may include information such as device type, operating
+      system, application version, network information, crash or
+      diagnostic information, and other technical information made
+      available by the services we use.
+    </p>
+
+
+    <!-- 3 -->
+    <h2>3. How We Use Your Information</h2>
+
+    <p>
+      Cooku.com may use collected information for the following
+      purposes:
+    </p>
+
+    <ul>
+      <li>Creating and managing your account</li>
+      <li>Authenticating your account</li>
+      <li>Processing grocery orders</li>
+      <li>Preparing and delivering orders</li>
+      <li>Determining store availability</li>
+      <li>Calculating delivery distance</li>
+      <li>Determining delivery eligibility</li>
+      <li>Managing your cart and wishlist</li>
+      <li>Providing customer support</li>
+      <li>Sending order-related notifications</li>
+      <li>Improving application functionality</li>
+      <li>Maintaining application security</li>
+      <li>Detecting and preventing misuse or fraudulent activity</li>
+      <li>Maintaining business and transaction records</li>
+      <li>Complying with applicable legal requirements</li>
+    </ul>
+
+
+    <!-- 4 -->
+    <h2>4. Google Sign-In</h2>
+
+    <p>
+      Cooku.com may provide Google Sign-In as an authentication
+      option.
+    </p>
+
+    <p>
+      When you choose to sign in using Google, authentication is
+      handled through Google's services. Information made available
+      to Cooku.com through Google authentication may be used to
+      create or access your Cooku.com account.
+    </p>
+
+    <p>
+      Your use of Google services is also subject to Google's
+      applicable policies and terms.
+    </p>
+
+
+    <!-- 5 -->
+    <h2>5. Firebase Services</h2>
+
+    <p>
+      Cooku.com uses Firebase services to support certain application
+      functions, including authentication, database functionality,
+      notifications, and application infrastructure.
+    </p>
+
+    <p>
+      Depending on the features being used, information may be
+      processed through Firebase services operated by Google.
+    </p>
+
+    <p>
+      Firebase may process technical information and information
+      required to provide the requested application functionality.
+    </p>
+
+
+    <!-- 6 -->
+    <h2>6. Notifications</h2>
+
+    <p>
+      Cooku.com may use notification services to send important
+      information about your account and orders.
+    </p>
+
+    <p>
+      Notifications may include information such as:
+    </p>
+
+    <ul>
+      <li>Order confirmation</li>
+      <li>Order status updates</li>
+      <li>Delivery-related updates</li>
+      <li>Important account information</li>
+      <li>Service-related announcements</li>
+    </ul>
+
+    <p>
+      You can manage notification permissions through your device
+      settings.
+    </p>
+
+
+    <!-- 7 -->
+    <h2>7. Payments</h2>
+
+    <p>
+      Cooku.com currently supports Cash on Delivery (COD) as a
+      payment method.
+    </p>
+
+    <p>
+      When you choose Cash on Delivery, payment is collected
+      according to the delivery process applicable to your order.
+    </p>
+
+    <p>
+      Cooku.com does not request or store your credit card, debit
+      card, or online banking credentials through the application
+      when Cash on Delivery is selected.
+    </p>
+
+
+    <!-- 8 -->
+    <h2>8. Sharing of Information</h2>
+
+    <p>
+      Cooku.com does not sell your personal information to third
+      parties.
+    </p>
+
+    <p>
+      We may share information when reasonably necessary to provide
+      the services you request, operate the application, protect
+      users, or comply with legal obligations.
+    </p>
+
+    <p>
+      This may include sharing relevant information with:
+    </p>
+
+    <ul>
+      <li>
+        Delivery personnel or delivery partners when necessary
+        to deliver your order
+      </li>
+
+      <li>
+        Service providers that help operate application
+        infrastructure
+      </li>
+
+      <li>
+        Authentication and technology service providers
+      </li>
+
+      <li>
+        Government authorities or law enforcement when required
+        by applicable law
+      </li>
+    </ul>
+
+
+    <!-- 9 -->
+    <h2>9. Third-Party Services</h2>
+
+    <p>
+      Cooku.com may use third-party services to provide application
+      functionality. These services may process information according
+      to their own terms and privacy policies.
+    </p>
+
+    <p>
+      Examples may include services provided by:
+    </p>
+
+    <ul>
+      <li>Google</li>
+      <li>Firebase</li>
+      <li>Google Maps or location-related services</li>
+      <li>Other infrastructure or notification service providers</li>
+    </ul>
+
+    <p>
+      Third-party services may update their policies from time to
+      time. Users should review the applicable policies of those
+      services where appropriate.
+    </p>
+
+
+    <!-- 10 -->
+    <h2>10. Data Security</h2>
+
+    <p>
+      Cooku.com takes reasonable measures to protect information
+      against unauthorized access, alteration, disclosure, or
+      destruction.
+    </p>
+
+    <p>
+      However, no electronic transmission, storage system, or
+      internet-based service can be guaranteed to be completely
+      secure.
+    </p>
+
+    <p>
+      You should also take reasonable steps to protect your account
+      credentials and device.
+    </p>
+
+
+    <!-- 11 -->
+    <h2>11. Data Retention</h2>
+
+    <p>
+      We may retain information for as long as reasonably necessary
+      to provide our services, maintain business and transaction
+      records, resolve disputes, prevent misuse, maintain security,
+      and comply with applicable legal or regulatory obligations.
+    </p>
+
+    <p>
+      The retention period may vary depending on the type of
+      information and the purpose for which it is processed.
+    </p>
+
+
+    <!-- 12 -->
+    <h2>12. Account and Data Deletion</h2>
+
+    <p>
+      You may request deletion of your Cooku.com account and
+      associated personal information by contacting us using the
+      support email provided below.
+    </p>
+
+    <p>
+      When we receive a valid deletion request, we will review and
+      process the request in accordance with applicable requirements.
+    </p>
+
+    <p>
+      Some information may need to be retained where required for
+      legal, security, fraud-prevention, accounting, or legitimate
+      business purposes.
+    </p>
+
+
+    <!-- 13 -->
+    <h2>13. Children's Privacy</h2>
+
+    <p>
+      Cooku.com is not intended to knowingly collect personal
+      information directly from children who are unable to provide
+      valid consent under applicable law.
+    </p>
+
+    <p>
+      If you believe that a child has provided personal information
+      to Cooku.com without appropriate authorization, please contact
+      us so that we can review the situation and take appropriate
+      action.
+    </p>
+
+
+    <!-- 14 -->
+    <h2>14. Your Choices</h2>
+
+    <p>
+      Depending on the features available in the application and
+      applicable law, you may have choices regarding your personal
+      information.
+    </p>
+
+    <p>
+      You may be able to:
+    </p>
+
+    <ul>
+      <li>Update certain account information</li>
+      <li>Manage device location permissions</li>
+      <li>Manage notification permissions</li>
+      <li>Request account or data deletion</li>
+      <li>Contact us regarding privacy-related questions</li>
+    </ul>
+
+
+    <!-- 15 -->
+    <h2>15. Location Permission</h2>
+
+    <p>
+      Location permission is used to support delivery-related
+      functionality.
+    </p>
+
+    <p>
+      Cooku.com may use your current location to determine your
+      approximate distance from an available Cooku.com store and
+      determine whether the delivery service is available for your
+      location.
+    </p>
+
+    <p>
+      You can deny or revoke location permission using your device
+      settings. Some location-dependent features may not function
+      when permission is disabled.
+    </p>
+
+
+    <!-- 16 -->
+    <h2>16. Cookies and Similar Technologies</h2>
+
+    <p>
+      The Cooku.com mobile application itself may not use traditional
+      browser cookies in the same way as a normal website.
+    </p>
+
+    <p>
+      However, third-party services and web-based technologies used
+      by the application may use identifiers, storage technologies,
+      or similar mechanisms to provide, secure, analyze, or improve
+      their services.
+    </p>
+
+
+    <!-- 17 -->
+    <h2>17. Fraud and Security</h2>
+
+    <p>
+      We may use information to identify, investigate, prevent, or
+      address suspicious activity, unauthorized access, abuse,
+      fraudulent transactions, or violations of our terms and
+      applicable laws.
+    </p>
+
+
+    <!-- 18 -->
+    <h2>18. Changes to This Privacy Policy</h2>
+
+    <p>
+      We may update this Privacy Policy from time to time to reflect
+      changes in our services, technology, legal requirements, or
+      business practices.
+    </p>
+
+    <p>
+      When changes are made, the updated Privacy Policy will be
+      published on this page and the "Last updated" date will be
+      changed accordingly.
+    </p>
+
+    <p>
+      We encourage users to review this Privacy Policy periodically.
+    </p>
+
+
+    <!-- 19 -->
+    <h2>19. Contact Us</h2>
+
+    <div class="contact">
+
+      <p>
+        If you have questions, concerns, requests, or complaints
+        regarding this Privacy Policy or the handling of your
+        personal information, please contact Cooku.com.
+      </p>
+
+      <p>
+        <strong>Business Name:</strong> Cooku.com
+      </p>
+
+      <p>
+        <strong>Email:</strong>
+        <a href="mailto:cooku.com26@gmail.com">
+          cooku.com26@gmail.com
+        </a>
+      </p>
+
+    </div>
+
+
+    <!-- 20 -->
+    <h2>20. Acceptance of This Policy</h2>
+
+    <p>
+      By using the Cooku.com application, you acknowledge that you
+      have read and understood this Privacy Policy and agree to the
+      collection and use of information as described in this policy.
+    </p>
+
+
+    <!-- FOOTER -->
+    <div class="footer">
+      <p>
+        © 2026 Cooku.com. All rights reserved.
+      </p>
+
+      <p>
+        Privacy Policy for the Cooku.com mobile application.
+      </p>
+    </div>
+
+  </div>
+
+</body>
+</html>
+```
